@@ -1,0 +1,15 @@
+"FanKit_yearAgo" = "年以前";
+"FanKit_monthAgo" = "月以前";
+"FanKit_dayAgo" = "日以前";
+"FanKit_hourAgo" = "小時以前";
+"FanKit_minuteAgo" = "分鐘以前";
+"FanKit_secondAgo" = "秒以前";
+
+"FanKit_yesterday" = "昨天";
+
+
+"FanKit_Confirm" = "確定";
+"FanKit_WarmTips" = "溫馨提示";
+"FanKit_ProhibitCameraPermission"  =   "您禁止了該攝像機權限，請在設置界面開啓！";
+"FanKit_OpenFlash"    =   "該設備不能打開閃光燈!";
+"FanKit_ProhibitAlbumPermission" = "您禁止了該相冊權限，請在設置界面開啟！";

@@ -16,6 +16,32 @@
 		66A0F4E425A6E26700B61D23 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 66A0F4E325A6E26700B61D23 /* main.m */; };
 		66A0F4EE25A6E26800B61D23 /* FanDrageTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 66A0F4ED25A6E26800B61D23 /* FanDrageTests.m */; };
 		66A0F4F925A6E26800B61D23 /* FanDrageUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 66A0F4F825A6E26800B61D23 /* FanDrageUITests.m */; };
+		66A0F57F25A6E95000B61D23 /* FanProView.m in Sources */ = {isa = PBXBuildFile; fileRef = 66A0F57E25A6E95000B61D23 /* FanProView.m */; };
+		66DA475229B753F70013DE4F /* NSObject+FanDictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA471D29B753F60013DE4F /* NSObject+FanDictionary.m */; };
+		66DA475329B753F70013DE4F /* FanUIKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA472029B753F60013DE4F /* FanUIKit.m */; };
+		66DA475429B753F70013DE4F /* FanAnyObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA472229B753F60013DE4F /* FanAnyObject.m */; };
+		66DA475529B753F70013DE4F /* FanDeviceOrientation.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA472329B753F60013DE4F /* FanDeviceOrientation.m */; };
+		66DA475629B753F70013DE4F /* FanDialogboxController.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA472429B753F60013DE4F /* FanDialogboxController.m */; };
+		66DA475729B753F70013DE4F /* FanAuthManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA472629B753F60013DE4F /* FanAuthManager.m */; };
+		66DA475829B753F70013DE4F /* FanVideoRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA472829B753F60013DE4F /* FanVideoRecord.m */; };
+		66DA475929B753F70013DE4F /* NSBundle+FanKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA472C29B753F60013DE4F /* NSBundle+FanKit.m */; };
+		66DA475A29B753F70013DE4F /* UIViewController+FanRoot.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA472D29B753F60013DE4F /* UIViewController+FanRoot.m */; };
+		66DA475B29B753F70013DE4F /* NSString+FanTime.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA472E29B753F60013DE4F /* NSString+FanTime.m */; };
+		66DA475C29B753F70013DE4F /* FanRgbView.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA473129B753F60013DE4F /* FanRgbView.m */; };
+		66DA475D29B753F70013DE4F /* FanAudioConverter.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA473229B753F60013DE4F /* FanAudioConverter.m */; };
+		66DA475E29B753F70013DE4F /* UIView+FanAutoLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA473329B753F60013DE4F /* UIView+FanAutoLayout.m */; };
+		66DA475F29B753F70013DE4F /* FanAlertController.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA473429B753F60013DE4F /* FanAlertController.m */; };
+		66DA476029B753F70013DE4F /* NSNull+FanNull.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA473629B753F60013DE4F /* NSNull+FanNull.m */; };
+		66DA476129B753F70013DE4F /* FanDrawLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA473829B753F60013DE4F /* FanDrawLayer.m */; };
+		66DA476229B753F70013DE4F /* FanProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA473929B753F60013DE4F /* FanProgressHUD.m */; };
+		66DA476329B753F70013DE4F /* FanToolBox.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA473B29B753F60013DE4F /* FanToolBox.m */; };
+		66DA476429B753F70013DE4F /* FanTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA473C29B753F60013DE4F /* FanTextField.m */; };
+		66DA476529B753F70013DE4F /* FanAnimationToll.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA473D29B753F60013DE4F /* FanAnimationToll.m */; };
+		66DA476629B753F70013DE4F /* FanDataTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA474329B753F60013DE4F /* FanDataTool.m */; };
+		66DA476729B753F70013DE4F /* FanCopyLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA474629B753F60013DE4F /* FanCopyLabel.m */; };
+		66DA476829B753F70013DE4F /* FanRSA.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA474829B753F60013DE4F /* FanRSA.m */; };
+		66DA476A29B753F70013DE4F /* NSDictionary+FanNull.m in Sources */ = {isa = PBXBuildFile; fileRef = 66DA474F29B753F60013DE4F /* NSDictionary+FanNull.m */; };
+		66DA476B29B753F70013DE4F /* FanKit.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 66DA475129B753F70013DE4F /* FanKit.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +80,59 @@
 		66A0F4F425A6E26800B61D23 /* FanDrageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FanDrageUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		66A0F4F825A6E26800B61D23 /* FanDrageUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FanDrageUITests.m; sourceTree = "<group>"; };
 		66A0F4FA25A6E26800B61D23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		66A0F57D25A6E94F00B61D23 /* FanProView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FanProView.h; sourceTree = "<group>"; };
+		66A0F57E25A6E95000B61D23 /* FanProView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FanProView.m; sourceTree = "<group>"; };
+		66DA471D29B753F60013DE4F /* NSObject+FanDictionary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+FanDictionary.m"; sourceTree = "<group>"; };
+		66DA471E29B753F60013DE4F /* FanProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanProgressHUD.h; sourceTree = "<group>"; };
+		66DA471F29B753F60013DE4F /* FanDrawLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanDrawLayer.h; sourceTree = "<group>"; };
+		66DA472029B753F60013DE4F /* FanUIKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanUIKit.m; sourceTree = "<group>"; };
+		66DA472129B753F60013DE4F /* NSNull+FanNull.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSNull+FanNull.h"; sourceTree = "<group>"; };
+		66DA472229B753F60013DE4F /* FanAnyObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanAnyObject.m; sourceTree = "<group>"; };
+		66DA472329B753F60013DE4F /* FanDeviceOrientation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanDeviceOrientation.m; sourceTree = "<group>"; };
+		66DA472429B753F60013DE4F /* FanDialogboxController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanDialogboxController.m; sourceTree = "<group>"; };
+		66DA472529B753F60013DE4F /* FanKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanKit.h; sourceTree = "<group>"; };
+		66DA472629B753F60013DE4F /* FanAuthManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanAuthManager.m; sourceTree = "<group>"; };
+		66DA472729B753F60013DE4F /* FanAnimationToll.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanAnimationToll.h; sourceTree = "<group>"; };
+		66DA472829B753F60013DE4F /* FanVideoRecord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanVideoRecord.m; sourceTree = "<group>"; };
+		66DA472929B753F60013DE4F /* FanTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanTextField.h; sourceTree = "<group>"; };
+		66DA472A29B753F60013DE4F /* FanToolBox.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanToolBox.h; sourceTree = "<group>"; };
+		66DA472B29B753F60013DE4F /* FanCopyLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanCopyLabel.h; sourceTree = "<group>"; };
+		66DA472C29B753F60013DE4F /* NSBundle+FanKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSBundle+FanKit.m"; sourceTree = "<group>"; };
+		66DA472D29B753F60013DE4F /* UIViewController+FanRoot.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+FanRoot.m"; sourceTree = "<group>"; };
+		66DA472E29B753F60013DE4F /* NSString+FanTime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+FanTime.m"; sourceTree = "<group>"; };
+		66DA472F29B753F60013DE4F /* FanDataTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanDataTool.h; sourceTree = "<group>"; };
+		66DA473029B753F60013DE4F /* NSDictionary+FanNull.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+FanNull.h"; sourceTree = "<group>"; };
+		66DA473129B753F60013DE4F /* FanRgbView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanRgbView.m; sourceTree = "<group>"; };
+		66DA473229B753F60013DE4F /* FanAudioConverter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanAudioConverter.m; sourceTree = "<group>"; };
+		66DA473329B753F60013DE4F /* UIView+FanAutoLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+FanAutoLayout.m"; sourceTree = "<group>"; };
+		66DA473429B753F60013DE4F /* FanAlertController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanAlertController.m; sourceTree = "<group>"; };
+		66DA473529B753F60013DE4F /* FanRSA.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanRSA.h; sourceTree = "<group>"; };
+		66DA473629B753F60013DE4F /* NSNull+FanNull.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSNull+FanNull.m"; sourceTree = "<group>"; };
+		66DA473729B753F60013DE4F /* FanUIKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanUIKit.h; sourceTree = "<group>"; };
+		66DA473829B753F60013DE4F /* FanDrawLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanDrawLayer.m; sourceTree = "<group>"; };
+		66DA473929B753F60013DE4F /* FanProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanProgressHUD.m; sourceTree = "<group>"; };
+		66DA473A29B753F60013DE4F /* NSObject+FanDictionary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+FanDictionary.h"; sourceTree = "<group>"; };
+		66DA473B29B753F60013DE4F /* FanToolBox.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanToolBox.m; sourceTree = "<group>"; };
+		66DA473C29B753F60013DE4F /* FanTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanTextField.m; sourceTree = "<group>"; };
+		66DA473D29B753F60013DE4F /* FanAnimationToll.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanAnimationToll.m; sourceTree = "<group>"; };
+		66DA473E29B753F60013DE4F /* FanAuthManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanAuthManager.h; sourceTree = "<group>"; };
+		66DA473F29B753F60013DE4F /* FanVideoRecord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanVideoRecord.h; sourceTree = "<group>"; };
+		66DA474029B753F60013DE4F /* FanDialogboxController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanDialogboxController.h; sourceTree = "<group>"; };
+		66DA474129B753F60013DE4F /* FanDeviceOrientation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanDeviceOrientation.h; sourceTree = "<group>"; };
+		66DA474229B753F60013DE4F /* FanAnyObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanAnyObject.h; sourceTree = "<group>"; };
+		66DA474329B753F60013DE4F /* FanDataTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanDataTool.m; sourceTree = "<group>"; };
+		66DA474429B753F60013DE4F /* UIViewController+FanRoot.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+FanRoot.h"; sourceTree = "<group>"; };
+		66DA474529B753F60013DE4F /* NSString+FanTime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+FanTime.h"; sourceTree = "<group>"; };
+		66DA474629B753F60013DE4F /* FanCopyLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanCopyLabel.m; sourceTree = "<group>"; };
+		66DA474729B753F60013DE4F /* NSBundle+FanKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSBundle+FanKit.h"; sourceTree = "<group>"; };
+		66DA474829B753F60013DE4F /* FanRSA.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FanRSA.m; sourceTree = "<group>"; };
+		66DA474929B753F60013DE4F /* FanAlertController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanAlertController.h; sourceTree = "<group>"; };
+		66DA474A29B753F60013DE4F /* UIView+FanAutoLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+FanAutoLayout.h"; sourceTree = "<group>"; };
+		66DA474C29B753F60013DE4F /* FanKitHead.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanKitHead.h; sourceTree = "<group>"; };
+		66DA474D29B753F60013DE4F /* FanRgbView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanRgbView.h; sourceTree = "<group>"; };
+		66DA474E29B753F60013DE4F /* FanAudioConverter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FanAudioConverter.h; sourceTree = "<group>"; };
+		66DA474F29B753F60013DE4F /* NSDictionary+FanNull.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+FanNull.m"; sourceTree = "<group>"; };
+		66DA475129B753F70013DE4F /* FanKit.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = FanKit.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,12 +183,15 @@
 		66A0F4D025A6E26700B61D23 /* FanDrage */ = {
 			isa = PBXGroup;
 			children = (
+				66DA471B29B753F60013DE4F /* FanKit */,
 				66A0F4D125A6E26700B61D23 /* AppDelegate.h */,
 				66A0F4D225A6E26700B61D23 /* AppDelegate.m */,
 				66A0F4D425A6E26700B61D23 /* SceneDelegate.h */,
 				66A0F4D525A6E26700B61D23 /* SceneDelegate.m */,
 				66A0F4D725A6E26700B61D23 /* ViewController.h */,
 				66A0F4D825A6E26700B61D23 /* ViewController.m */,
+				66A0F57D25A6E94F00B61D23 /* FanProView.h */,
+				66A0F57E25A6E95000B61D23 /* FanProView.m */,
 				66A0F4DA25A6E26700B61D23 /* Main.storyboard */,
 				66A0F4DD25A6E26700B61D23 /* Assets.xcassets */,
 				66A0F4DF25A6E26700B61D23 /* LaunchScreen.storyboard */,
@@ -135,6 +217,80 @@
 				66A0F4FA25A6E26800B61D23 /* Info.plist */,
 			);
 			path = FanDrageUITests;
+			sourceTree = "<group>";
+		};
+		66DA471B29B753F60013DE4F /* FanKit */ = {
+			isa = PBXGroup;
+			children = (
+				66DA471C29B753F60013DE4F /* FanKit */,
+				66DA475029B753F60013DE4F /* Resources */,
+			);
+			path = FanKit;
+			sourceTree = "<group>";
+		};
+		66DA471C29B753F60013DE4F /* FanKit */ = {
+			isa = PBXGroup;
+			children = (
+				66DA471D29B753F60013DE4F /* NSObject+FanDictionary.m */,
+				66DA471E29B753F60013DE4F /* FanProgressHUD.h */,
+				66DA471F29B753F60013DE4F /* FanDrawLayer.h */,
+				66DA472029B753F60013DE4F /* FanUIKit.m */,
+				66DA472129B753F60013DE4F /* NSNull+FanNull.h */,
+				66DA472229B753F60013DE4F /* FanAnyObject.m */,
+				66DA472329B753F60013DE4F /* FanDeviceOrientation.m */,
+				66DA472429B753F60013DE4F /* FanDialogboxController.m */,
+				66DA472529B753F60013DE4F /* FanKit.h */,
+				66DA472629B753F60013DE4F /* FanAuthManager.m */,
+				66DA472729B753F60013DE4F /* FanAnimationToll.h */,
+				66DA472829B753F60013DE4F /* FanVideoRecord.m */,
+				66DA472929B753F60013DE4F /* FanTextField.h */,
+				66DA472A29B753F60013DE4F /* FanToolBox.h */,
+				66DA472B29B753F60013DE4F /* FanCopyLabel.h */,
+				66DA472C29B753F60013DE4F /* NSBundle+FanKit.m */,
+				66DA472D29B753F60013DE4F /* UIViewController+FanRoot.m */,
+				66DA472E29B753F60013DE4F /* NSString+FanTime.m */,
+				66DA472F29B753F60013DE4F /* FanDataTool.h */,
+				66DA473029B753F60013DE4F /* NSDictionary+FanNull.h */,
+				66DA473129B753F60013DE4F /* FanRgbView.m */,
+				66DA473229B753F60013DE4F /* FanAudioConverter.m */,
+				66DA473329B753F60013DE4F /* UIView+FanAutoLayout.m */,
+				66DA473429B753F60013DE4F /* FanAlertController.m */,
+				66DA473529B753F60013DE4F /* FanRSA.h */,
+				66DA473629B753F60013DE4F /* NSNull+FanNull.m */,
+				66DA473729B753F60013DE4F /* FanUIKit.h */,
+				66DA473829B753F60013DE4F /* FanDrawLayer.m */,
+				66DA473929B753F60013DE4F /* FanProgressHUD.m */,
+				66DA473A29B753F60013DE4F /* NSObject+FanDictionary.h */,
+				66DA473B29B753F60013DE4F /* FanToolBox.m */,
+				66DA473C29B753F60013DE4F /* FanTextField.m */,
+				66DA473D29B753F60013DE4F /* FanAnimationToll.m */,
+				66DA473E29B753F60013DE4F /* FanAuthManager.h */,
+				66DA473F29B753F60013DE4F /* FanVideoRecord.h */,
+				66DA474029B753F60013DE4F /* FanDialogboxController.h */,
+				66DA474129B753F60013DE4F /* FanDeviceOrientation.h */,
+				66DA474229B753F60013DE4F /* FanAnyObject.h */,
+				66DA474329B753F60013DE4F /* FanDataTool.m */,
+				66DA474429B753F60013DE4F /* UIViewController+FanRoot.h */,
+				66DA474529B753F60013DE4F /* NSString+FanTime.h */,
+				66DA474629B753F60013DE4F /* FanCopyLabel.m */,
+				66DA474729B753F60013DE4F /* NSBundle+FanKit.h */,
+				66DA474829B753F60013DE4F /* FanRSA.m */,
+				66DA474929B753F60013DE4F /* FanAlertController.h */,
+				66DA474A29B753F60013DE4F /* UIView+FanAutoLayout.h */,
+				66DA474C29B753F60013DE4F /* FanKitHead.h */,
+				66DA474D29B753F60013DE4F /* FanRgbView.h */,
+				66DA474E29B753F60013DE4F /* FanAudioConverter.h */,
+				66DA474F29B753F60013DE4F /* NSDictionary+FanNull.m */,
+			);
+			path = FanKit;
+			sourceTree = "<group>";
+		};
+		66DA475029B753F60013DE4F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				66DA475129B753F70013DE4F /* FanKit.bundle */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -242,6 +398,7 @@
 				66A0F4E125A6E26700B61D23 /* LaunchScreen.storyboard in Resources */,
 				66A0F4DE25A6E26700B61D23 /* Assets.xcassets in Resources */,
 				66A0F4DC25A6E26700B61D23 /* Main.storyboard in Resources */,
+				66DA476B29B753F70013DE4F /* FanKit.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,10 +423,35 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				66DA475B29B753F70013DE4F /* NSString+FanTime.m in Sources */,
 				66A0F4D925A6E26700B61D23 /* ViewController.m in Sources */,
+				66DA476129B753F70013DE4F /* FanDrawLayer.m in Sources */,
+				66DA475C29B753F70013DE4F /* FanRgbView.m in Sources */,
+				66DA475D29B753F70013DE4F /* FanAudioConverter.m in Sources */,
+				66DA475629B753F70013DE4F /* FanDialogboxController.m in Sources */,
 				66A0F4D325A6E26700B61D23 /* AppDelegate.m in Sources */,
+				66DA476029B753F70013DE4F /* NSNull+FanNull.m in Sources */,
+				66DA476229B753F70013DE4F /* FanProgressHUD.m in Sources */,
+				66DA476629B753F70013DE4F /* FanDataTool.m in Sources */,
+				66DA475329B753F70013DE4F /* FanUIKit.m in Sources */,
+				66DA475F29B753F70013DE4F /* FanAlertController.m in Sources */,
 				66A0F4E425A6E26700B61D23 /* main.m in Sources */,
+				66DA475729B753F70013DE4F /* FanAuthManager.m in Sources */,
+				66DA476829B753F70013DE4F /* FanRSA.m in Sources */,
 				66A0F4D625A6E26700B61D23 /* SceneDelegate.m in Sources */,
+				66DA475429B753F70013DE4F /* FanAnyObject.m in Sources */,
+				66DA476429B753F70013DE4F /* FanTextField.m in Sources */,
+				66DA476529B753F70013DE4F /* FanAnimationToll.m in Sources */,
+				66DA475E29B753F70013DE4F /* UIView+FanAutoLayout.m in Sources */,
+				66DA476729B753F70013DE4F /* FanCopyLabel.m in Sources */,
+				66DA476A29B753F70013DE4F /* NSDictionary+FanNull.m in Sources */,
+				66DA475A29B753F70013DE4F /* UIViewController+FanRoot.m in Sources */,
+				66DA475929B753F70013DE4F /* NSBundle+FanKit.m in Sources */,
+				66DA475529B753F70013DE4F /* FanDeviceOrientation.m in Sources */,
+				66A0F57F25A6E95000B61D23 /* FanProView.m in Sources */,
+				66DA475829B753F70013DE4F /* FanVideoRecord.m in Sources */,
+				66DA476329B753F70013DE4F /* FanToolBox.m in Sources */,
+				66DA475229B753F70013DE4F /* NSObject+FanDictionary.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -442,8 +624,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = NW3X9NZ9UP;
+				DEVELOPMENT_TEAM = T9SQ7V3YQP;
 				INFOPLIST_FILE = FanDrage/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -460,8 +643,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = NW3X9NZ9UP;
+				DEVELOPMENT_TEAM = T9SQ7V3YQP;
 				INFOPLIST_FILE = FanDrage/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
